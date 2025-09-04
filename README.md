@@ -1,8 +1,8 @@
-# VISIAR
+# VISIAR: Empower MLLM for Visual Story Ideation
 
 This is the project website for the paper: VISIAR: Empower MLLM for Visual Story Ideation. 
 
-In this project, we propose a novel task: Visual story ideation: automated selection and arrangement of visual assets into coherent sequences that convey expressive storylines!
+In this project, we propose a novel task leveraging Multi-modal Large Language Models: Visual story ideation - automated selection and arrangement of visual assets into coherent sequences that convey expressive storylines!
 
 ![Task introduction](images/intro.png)
 
@@ -36,4 +36,17 @@ We show part of our results here. For more details, please refer to our paper!
 
 ## Resources:
 Our dataset is currently under review. We will provide further updates once the review is completed!
+![data](images/dataset.png)
+
+If you find our method inspiring or helpful for your research, please cite the following paper:
+
+```
+@inproceedings{xia2025visiar,
+  title={VISIAR: Empower MLLM for Visual Story Ideation},
+  author={Xia, Zhaoyang and Sarkhel, Somdeb and Tanjim, Mehrab and Petrangeli, Stefano and Dasgupta, Ishita and Chen, Yuxiao and Xu, Jinxuan and Liu, Di and Mitra, Saayan and Metaxas, Dimitris N},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2025},
+  pages={18384--18402},
+  year={2025}
+}
+
 
